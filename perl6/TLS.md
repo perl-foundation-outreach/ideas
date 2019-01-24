@@ -1,10 +1,10 @@
-Project Title (also add this to the overview list in [README.md](README.md))
-==================================
+Continue work on the TLS modules
+================================
 
 Description
 -----------
 
-Description of the project in 2 - 5 sentences. Make sure to be precise what needs to be accomplished and not only a theoretical version of what you might want.
+Continue the work on the TLS modujles. It would be awesome If OpenSSL (with IO::Socket::SSL and IO::Socket::Async::SSL) were feature complete, because IMHO sometimes enterprise companties need agree on some TLS specification. This would offer a consitent API for modules like Cro and others.
 
 
 Expected outcomes
