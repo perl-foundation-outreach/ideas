@@ -1,10 +1,10 @@
-Perl documentation tools
-========================
+Continue work on the TLS modules
+================================
 
 Description
 -----------
 
-Perl 6 documentation uses different tools to index, process and generate HTML pages (and other formats). Create a tool for document indexing based solely on the Pod 6 format.
+Continue the work on the TLS modujles. It would be awesome If OpenSSL (with IO::Socket::SSL and IO::Socket::Async::SSL) were feature complete, because IMHO sometimes enterprise companties need agree on some TLS specification. This would offer a consitent API for modules like Cro and others.
 
 
 Expected outcomes
@@ -29,3 +29,4 @@ Possible mentors
 ----------------
 
 At least one person that is able (see [this Google page](https://developers.google.com/open-source/gsoc/help/responsibilities#mentor_responsibilities) for a description of what it takes to e a mentor) and willing to mentor for this project. Do ask the respective person beforehand!
+

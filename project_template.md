@@ -1,10 +1,10 @@
-Perl documentation tools
-========================
+Project Title (also add this to the overview list in [README.md](README.md))
+==================================
 
 Description
 -----------
 
-Perl 6 documentation uses different tools to index, process and generate HTML pages (and other formats). Create a tool for document indexing based solely on the Pod 6 format.
+Description of the project in 2 - 5 sentences. Make sure to be precise what needs to be accomplished and not only a theoretical version of what you might want.
 
 
 Expected outcomes
@@ -29,3 +29,4 @@ Possible mentors
 ----------------
 
 At least one person that is able (see [this Google page](https://developers.google.com/open-source/gsoc/help/responsibilities#mentor_responsibilities) for a description of what it takes to e a mentor) and willing to mentor for this project. Do ask the respective person beforehand!
+
