@@ -10,7 +10,10 @@ Perl 6 documentation uses different tools to index, process and generate HTML pa
 Expected outcomes
 -----------------
 
-What final result should the project have? This should help to understand the extent of the task.
+The perl documentation tools are right now in a state of flux. There's
+a
+[new specification](https://github.com/perl6/doc/wiki/Document-file-specification) as
+well as several [proposals for organizing them]
 
 
 Required skills
