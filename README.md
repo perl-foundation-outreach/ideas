@@ -8,5 +8,11 @@ The project ideas needs to meet certain criteria described [on this Google page]
 
 
 * [Perl 6 documentation tools](perl6/docs.md), proposed by [JJ Merelo](https://github.com/JJ).
-* [Continue work on the TLS modules](perl6/TLS.md), proposed by [ufobat](https://github.com/ufobat).
+* [Continue work on the Perl 6 TLS modules](perl6/TLS.md), proposed
+  by [ufobat](https://github.com/ufobat).
 
+* [Improve argument parsing in Perl 6](perl6/argument-parsing.md),
+  proposed by [Alex Daniel](https://github.com/AlexDaniel)
+  
+* [Improve encoding and decoding in Chinese](perl6/encoding-decoding.md),
+  proposed by [Samantha McVey](https://github.com/samcv)
