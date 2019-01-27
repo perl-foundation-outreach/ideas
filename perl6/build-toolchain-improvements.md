@@ -11,8 +11,8 @@ could have a number of enhancements added. Here are three things in particular:
     results from running the Rakudo test suite as well a Roast spectest. Additionally,
     Rakudo can produce coverage reports of its code, that would also make sense to automate
     for its test suite and a Roast spectest.
-  * Benchmarking: There are [some](http://moarvm.com/measurements/perl6-bench/) that run every day, but they have been broken
-    for about two years. They could be fixed, as well as adding in something like https://github.com/japhb/perl6-bench.
+  * Benchmarking: There are [some benchmarks](https://github.com/japhb/perl6-bench) that are run every day,
+    but [the results](http://moarvm.com/measurements/perl6-bench/) have been broken for about two years.
   * Regression tests: [Blin](https://github.com/perl6/Blin) could be run automatically (e.g., at every NQP bump, every 10 or so Rakudo commits).
     
 

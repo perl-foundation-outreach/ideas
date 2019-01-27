@@ -13,6 +13,9 @@ The project ideas needs to meet certain criteria described [on this Google page]
 
 * [Improve argument parsing in Perl 6](perl6/argument-parsing.md),
   proposed by [Alex Daniel](https://github.com/AlexDaniel)
-  
+ 
 * [Improve encoding and decoding in Chinese](perl6/encoding-decoding.md),
   proposed by [Samantha McVey](https://github.com/samcv)
+ 
+* [Improve CI toolchain](perl6/build-toolchain-improvements.md),
+  proposed by [Daniel Green](https://github.com/masterduke17)
