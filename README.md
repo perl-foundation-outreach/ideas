@@ -9,4 +9,5 @@ The project ideas needs to meet certain criteria described [on this Google page]
 
 * [Perl 6 documentation tools](perl6/docs.md), proposed by [JJ Merelo](https://github.com/JJ).
 * [Continue work on the TLS modules](perl6/TLS.md), proposed by [ufobat](https://github.com/ufobat).
+* [Tree shaking for the JS backend](perl6/js-tree-shaking.md), proposed by [pmurias](https://github.com/pmurias).
 
