@@ -27,4 +27,4 @@ hard
 Possible mentors
 ----------------
 
-Paweł Murias 
+Paweł Murias (pawelmurias@gmail.com)
