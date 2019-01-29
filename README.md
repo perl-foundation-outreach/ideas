@@ -19,6 +19,8 @@ Project ideas
 
 * [Truffle/GraalVM backend](perl6/truffle.md), proposed by [pmurias](https://github.com/pmurias).
 
+* [Linking Perl6 for MoarVM](perl6/linking.md), proposed by [Bart Wiegmans](https://github.com/bdw)
+
 Incomplete project ideas
 ------------------------
 
