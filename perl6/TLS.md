@@ -4,7 +4,7 @@ Continue work on the TLS modules
 Description
 -----------
 
-Continue the work on the TLS modujles. It would be awesome If OpenSSL (with IO::Socket::SSL and IO::Socket::Async::SSL) were feature complete, because IMHO sometimes enterprise companties need agree on some TLS specification. This would offer a consitent API for modules like Cro and others.
+Continue the work on the TLS modules. It would be awesome If OpenSSL (with IO::Socket::SSL and IO::Socket::Async::SSL) were feature complete, because IMHO sometimes enterprise companties need agree on some TLS specification. This would offer a consitent API for modules like Cro and others.
 
 
 Expected outcomes

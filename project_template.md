@@ -28,5 +28,5 @@ If possible: easy, medium, hard
 Possible mentors
 ----------------
 
-At least one person that is able (see [this Google page](https://developers.google.com/open-source/gsoc/help/responsibilities#mentor_responsibilities) for a description of what it takes to e a mentor) and willing to mentor for this project. Do ask the respective person beforehand!
+At least one person that is able (see [this Google page](https://developers.google.com/open-source/gsoc/help/responsibilities#mentor_responsibilities) for a description of what it takes to e a mentor) and willing to mentor for this project. Include contact information so students can approach the mentors. Do ask the respective person beforehand!
 
