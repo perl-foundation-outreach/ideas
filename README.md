@@ -17,6 +17,7 @@ Project ideas
   
 * [Tree shaking for the JS backend](perl6/js-tree-shaking.md), proposed by [pmurias](https://github.com/pmurias).
 
+* [Truffle/GraalVM backend](perl6/truffle.md), proposed by [pmurias](https://github.com/pmurias).
 
 Incomplete project ideas
 ------------------------
