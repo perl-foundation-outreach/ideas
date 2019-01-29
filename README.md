@@ -14,6 +14,8 @@ Project ideas
 
 * [Improve encoding and decoding in Chinese](perl6/encoding-decoding.md),
   proposed by [Samantha McVey](https://github.com/samcv)
+  
+* [Tree shaking for the JS backend](perl6/js-tree-shaking.md), proposed by [pmurias](https://github.com/pmurias).
 
 
 Incomplete project ideas
