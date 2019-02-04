@@ -21,6 +21,9 @@ Project ideas
 
 * [Linking Perl6 for MoarVM](perl6/linking.md), proposed by [Bart Wiegmans](https://github.com/bdw)
 
+* [Improvements for Perl 5 DBI driver DBD::MariaDB](perl5/DBD-MariaDB.pod), proposed by
+  [pali](https://github.com/pali) and [choroba](https://github.com/choroba)
+
 Incomplete project ideas
 ------------------------
 
