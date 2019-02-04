@@ -24,6 +24,8 @@ Project ideas
 * [Improvements for Perl 5 DBI driver DBD::MariaDB](perl5/DBD-MariaDB.pod), proposed by
   [pali](https://github.com/pali) and [choroba](https://github.com/choroba)
 
+* [Pull Request Club](perl5/PullRequestClub.md)
+
 Incomplete project ideas
 ------------------------
 
