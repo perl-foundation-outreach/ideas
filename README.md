@@ -26,6 +26,9 @@ Project ideas
 
 * [Pull Request Club](perl5/PullRequestClub.md)
 
+* [Testing JIT compilation and runtime specialization in MoarVM](perl6/spesh-jit-testing.md), proposed by [Bart Wiegmans](https://github.com/bdw)
+
+
 Incomplete project ideas
 ------------------------
 
