@@ -13,20 +13,17 @@ If you are a student and have a project idea not listed below, feel free to cont
 Project ideas
 -------------
 
-* [Implement the GB2312 Encoding (Simplified Chinese)](perl6/GB2312-encoding-decoding.md),
-  proposed by [Samantha McVey](https://github.com/samcv)
+* [Implement the GB2312 Encoding (Simplified Chinese)](perl6/GB2312-encoding-decoding.md)
 
-* [Improving Decoding Modularity](perl6/decoding-modularity.md),
-  proposed by [Samantha McVey](https://github.com/samcv)
+* [Improving Decoding Modularity](perl6/decoding-modularity.md)
   
-* [Tree shaking for the JS backend](perl6/js-tree-shaking.md), proposed by [pmurias](https://github.com/pmurias).
+* [Tree shaking for the JS backend](perl6/js-tree-shaking.md)
 
-* [Truffle/GraalVM backend](perl6/truffle.md), proposed by [pmurias](https://github.com/pmurias).
+* [Truffle/GraalVM backend](perl6/truffle.md)
 
-* [Linking Perl6 for MoarVM](perl6/linking.md), proposed by [Bart Wiegmans](https://github.com/bdw)
+* [Linking Perl6 for MoarVM](perl6/linking.md)
 
-* [Improvements for Perl 5 DBI driver DBD::MariaDB](perl5/DBD-MariaDB.pod), proposed by
-  [pali](https://github.com/pali) and [choroba](https://github.com/choroba)
+* [Improvements for Perl 5 DBI driver DBD::MariaDB](perl5/DBD-MariaDB.pod)
 
 
 Incomplete project ideas
