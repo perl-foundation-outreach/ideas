@@ -1,4 +1,5 @@
-# Google Summer of Code ideas page for Perl projects
+Google Summer of Code ideas page for Perl projects
+==================================================
 
 This repository lists GSoC project ideas for Perl and related projects.
 
@@ -12,7 +13,10 @@ If you are a student and have a project idea not listed below, feel free to cont
 Project ideas
 -------------
 
-* [Improve encoding and decoding in Chinese](perl6/encoding-decoding.md),
+* [Implement the GB2312 Encoding (Simplified Chinese)](perl6/GB2312-encoding-decoding.md),
+  proposed by [Samantha McVey](https://github.com/samcv)
+
+* [Improving Decoding Modularity](perl6/decoding-modularity.md),
   proposed by [Samantha McVey](https://github.com/samcv)
   
 * [Tree shaking for the JS backend](perl6/js-tree-shaking.md), proposed by [pmurias](https://github.com/pmurias).
@@ -23,6 +27,7 @@ Project ideas
 
 * [Improvements for Perl 5 DBI driver DBD::MariaDB](perl5/DBD-MariaDB.pod), proposed by
   [pali](https://github.com/pali) and [choroba](https://github.com/choroba)
+
 
 Incomplete project ideas
 ------------------------
@@ -47,3 +52,4 @@ Just copy the [project idea template](project_template.md) into the perl5 or per
 Please also add your project idea to the *Project ideas* list above, itemized. If you have an idea but no mentor or the idea is not entirely fleshed out, add it to *incomplete project ideas* and try to complete it. Ideas without a mentor will have to be removed before this list is submitted to Google.
 
 Project ideas need to meet certain criteria described [on this Google page](https://google.github.io/gsocguides/mentor/defining-a-project-ideas-list). When you use the template you should be good to go. If you have an idea and want to discuss it before adding anything, [discuss it here or add a new issue](https://github.com/perl-gsoc-2019/ideas/issues/8)
+
