@@ -32,6 +32,6 @@ Medium
 Possible mentors
 ----------------
 
-Samantha McVey (samcv) is able to be a mentor for either of the two above mentioned projects. Can be
+Samantha McVey (samcv) is able to be a mentor for this project. Can be
 reached at samantham@posteo.net or on Freenode as samcv.
 
