@@ -13,25 +13,25 @@ If you are a student and have a project idea not listed below, feel free to cont
 Project ideas
 -------------
 
-* [Implement the GB2312 Encoding (Simplified Chinese)](perl6/GB2312-encoding-decoding.md)
+* [Perl 5 DBI: Improvements for the DBD::MariaDB driver](perl5/DBD-MariaDB.pod)
 
-* [Improving Decoding Modularity](perl6/decoding-modularity.md)
-  
-* [Tree shaking for the JS backend](perl6/js-tree-shaking.md)
+* [Perl 5 Pull Request Club: Improvements](perl5/PullRequestClub.md)
 
-* [Truffle/GraalVM backend](perl6/truffle.md)
+* [Perl 5 Dancer2: Configuration Improvements](perl5/d2-config.md)
 
-* [Linking Perl6 for MoarVM](perl6/linking.md)
+* [Perl 5 Dancer2: Documentation Improvements](perl5/dancer2-docs.md)
 
-* [Improvements for Perl 5 DBI driver DBD::MariaDB](perl5/DBD-MariaDB.pod)
+* [Perl 6 Rakudo JS: Tree shaking for the JS backend](perl6/js-tree-shaking.md)
 
-* [Pull Request Club](perl5/PullRequestClub.md)
+* [Perl 6 Rakudo JVM: Truffle / GraalVM backend](perl6/truffle.md)
 
-* [Dancer2 Configuration Improvements](perl5/d2-config.md)
+* [Perl 6 MoarVM: Implement the GB2312 Encoding (Simplified Chinese)](perl6/GB2312-encoding-decoding.md)
 
-* [Testing JIT compilation and runtime specialization in MoarVM](perl6/spesh-jit-testing.md)
+* [Perl 6 MoarVM: Improving Decoding Modularity](perl6/decoding-modularity.md)
 
-* [Dancer2 Documentation Improvements](perl5/dancer2-docs.md)
+* [Perl 6 MoarVM: Linking Perl6 for MoarVM](perl6/linking.md)
+
+* [Perl 6 MoarVM: Testing JIT compilation and runtime specialization](perl6/spesh-jit-testing.md)
 
 
 Incomplete project ideas
