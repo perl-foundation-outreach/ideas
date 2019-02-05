@@ -26,6 +26,9 @@ Project ideas
 
 * [Pull Request Club](perl5/PullRequestClub.md)
 
+* [Dancer2 Documentation Improvements](perl5/dancer2-docs.md), proposed by the 
+  [Dancer2 Core Team](https://github.com/PerlDancer)
+
 Incomplete project ideas
 ------------------------
 
