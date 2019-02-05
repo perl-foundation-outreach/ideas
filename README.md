@@ -25,8 +25,9 @@ Project ideas
 
 * [Improvements for Perl 5 DBI driver DBD::MariaDB](perl5/DBD-MariaDB.pod)
 
-
 * [Pull Request Club](perl5/PullRequestClub.md)
+
+* [Dancer2 Configuration Improvements](perl5/dancer2-docs.md), proposed by the [Dancer2 Core Team](https://github.com/PerlDancer)
 
 * [Testing JIT compilation and runtime specialization in MoarVM](perl6/spesh-jit-testing.md), proposed by [Bart Wiegmans](https://github.com/bdw)
 
