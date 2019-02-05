@@ -8,7 +8,7 @@ L<DBI|DBI> is a database independent interface for the Perl 5 language. L<MariaD
 
 =head2 Expected outcomes
 
-There are several areas for improving the DBD::MariaDB driver. Some of them are:
+There are several areas for improving the DBD::MariaDB driver. To call the project successful, at least one of the first two improvements must be completed.
 
 =over
 
