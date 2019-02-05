@@ -16,10 +16,11 @@ subsystems of MoarVM, because these:
 Yet these are highly complex subsystems with strict correctness
 requirements. Therefore we need a system to test these directly.
 
+
 Expected outcomes
 -----------------
 
-A succesful project will deliver:
+A successful project will deliver:
 
 - A tool to execute test cases for `spesh` and the JIT compiler. This
   tool should read a test case and directly build a suitable IR
@@ -45,3 +46,4 @@ Possible mentors
 ----------------
 
 [Bart Wiegmans](https://github.com/bdw) (bartwiegmans@gmail.com)
+
