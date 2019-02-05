@@ -12,7 +12,7 @@ issues. An expandable configuration is needed, allowing developers to choose the
 Expected outcomes
 -----------------
 
-* Make the configuration system pluggable, much like sessions and templates in Dancer2 currently are
+* Make the configuration system pluggable, much like sessions and templates in Dancer2 currently are.
 
 * Package the existing configuration system up as a plugin to the new configuration engine. Ship in the default Dancer2 installation.
 
@@ -36,6 +36,6 @@ Hard
 Possible mentors
 ----------------
 
-* Jason Crome (cromedome): [CPAN](https://metacpan.org/author/CROMEDOME)/[GitHub](https://github.com/cromedome)
+* Jason Crome (cromedome): [CPAN](https://metacpan.org/author/CROMEDOME)/[GitHub](https://github.com/cromedome)/jason@crome-plated.com
 
 

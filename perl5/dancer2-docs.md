@@ -42,6 +42,6 @@ Medium
 Possible mentors
 ----------------
 
-* David Precious (bigpresh): [CPAN](https://metacpan.org/author/BIGPRESH)/[GitHub](https://github.com/bigpresh)
-* Jason Crome (cromedome): [CPAN](https://metacpan.org/author/CROMEDOME)/[GitHub](https://github.com/cromedome)
+* David Precious (bigpresh): [CPAN](https://metacpan.org/author/BIGPRESH)/[GitHub](https://github.com/bigpresh)/davidp@preshweb.co.uk
+* Jason Crome (cromedome): [CPAN](https://metacpan.org/author/CROMEDOME)/[GitHub](https://github.com/cromedome)/jason@crome-plated.com
 
