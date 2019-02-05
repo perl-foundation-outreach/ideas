@@ -15,8 +15,6 @@ Project ideas
 
 * [Perl 5 DBI: Improvements for the DBD::MariaDB driver](perl5/DBD-MariaDB.pod)
 
-* [Perl 5 Pull Request Club: Improvements](perl5/PullRequestClub.md)
-
 * [Perl 5 Dancer2: Configuration Improvements](perl5/d2-config.md)
 
 * [Perl 5 Dancer2: Documentation Improvements](perl5/dancer2-docs.md)
@@ -47,6 +45,8 @@ Incomplete project ideas
 
 * [Improve CI toolchain](perl6/build-toolchain-improvements.md),
   proposed by [Daniel Green](https://github.com/masterduke17)
+
+* [Perl 5 Pull Request Club: Improvements](perl5/PullRequestClub.md)
 
 
 Adding ideas
