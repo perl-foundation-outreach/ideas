@@ -78,4 +78,4 @@ medium/hard, depending on strategy
 Possible mentors
 ----------------
 
-Bart Wiegmans (bartwiegmans@gmail.com), brrt on freenode
+[Bart Wiegmans](https://github.com/bdw) (bartwiegmans@gmail.com), brrt on freenode
