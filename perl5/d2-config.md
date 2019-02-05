@@ -36,6 +36,6 @@ Hard
 Possible mentors
 ----------------
 
-* Jason Crome (cromedome): [CPAN](https://metacpan.org/author/CROMEDOME)/[GitHub](https://github.com/cromedome)/jason@crome-plated.com
+* Jason Crome (cromedome): [CPAN](https://metacpan.org/author/CROMEDOME)/[GitHub](https://github.com/cromedome)/cromedome@cpan.org
 
 
