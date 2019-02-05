@@ -5,9 +5,9 @@ This repository lists GSoC project ideas for Perl and related projects.
 
 If you are a student and have a project idea not listed below, feel free to contact the organization administrators and just ask!
 
-* [JJ Merelo](https://github.com/JJ)
-* Makoto Nozaki
-* Mark Keating
+* JJ Merelo (jjmerelo@gmail.com / [GitHub](https://github.com/JJ))
+* Makoto Nozaki (makoto@perlfoundation.org)
+* Mark Keating (m.keating@shadowcat.co.uk)
 
 
 Project ideas
