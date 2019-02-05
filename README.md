@@ -5,33 +5,31 @@ This repository lists GSoC project ideas for Perl and related projects.
 
 If you are a student and have a project idea not listed below, feel free to contact the organization administrators and just ask!
 
-* [JJ Merelo](https://github.com/JJ)
-* Makoto Nozaki
-* Mark Keating
+* JJ Merelo (jjmerelo@gmail.com / [GitHub](https://github.com/JJ))
+* Makoto Nozaki (makoto@perlfoundation.org)
+* Mark Keating (m.keating@shadowcat.co.uk)
 
 
 Project ideas
 -------------
 
-* [Implement the GB2312 Encoding (Simplified Chinese)](perl6/GB2312-encoding-decoding.md)
+* [Perl 5 DBI: Improvements for the DBD::MariaDB driver](perl5/DBD-MariaDB.pod)
 
-* [Improving Decoding Modularity](perl6/decoding-modularity.md)
-  
-* [Tree shaking for the JS backend](perl6/js-tree-shaking.md)
+* [Perl 5 Dancer2: Configuration Improvements](perl5/d2-config.md)
 
-* [Truffle/GraalVM backend](perl6/truffle.md)
+* [Perl 5 Dancer2: Documentation Improvements](perl5/dancer2-docs.md)
 
-* [Linking Perl6 for MoarVM](perl6/linking.md)
+* [Perl 6 Rakudo JS: Tree shaking for the JS backend](perl6/js-tree-shaking.md)
 
-* [Improvements for Perl 5 DBI driver DBD::MariaDB](perl5/DBD-MariaDB.pod)
+* [Perl 6 Rakudo JVM: Truffle / GraalVM backend](perl6/truffle.md)
 
-* [Pull Request Club](perl5/PullRequestClub.md)
+* [Perl 6 MoarVM: Implement the GB2312 Encoding (Simplified Chinese)](perl6/GB2312-encoding-decoding.md)
 
-* [Dancer2 Configuration Improvements](perl5/dancer2-docs.md), proposed by the [Dancer2 Core Team](https://github.com/PerlDancer)
+* [Perl 6 MoarVM: Improving Decoding Modularity](perl6/decoding-modularity.md)
 
-* [Testing JIT compilation and runtime specialization in MoarVM](perl6/spesh-jit-testing.md), proposed by [Bart Wiegmans](https://github.com/bdw)
+* [Perl 6 MoarVM: Linking Perl6 for MoarVM](perl6/linking.md)
 
-* [Dancer2 Documentation Improvements](perl5/dancer2-docs.md), proposed by the [Dancer2 Core Team](https://github.com/PerlDancer)
+* [Perl 6 MoarVM: Testing JIT compilation and runtime specialization](perl6/spesh-jit-testing.md)
 
 
 Incomplete project ideas
@@ -47,6 +45,8 @@ Incomplete project ideas
 
 * [Improve CI toolchain](perl6/build-toolchain-improvements.md),
   proposed by [Daniel Green](https://github.com/masterduke17)
+
+* [Perl 5 Pull Request Club: Improvements](perl5/PullRequestClub.md)
 
 
 Adding ideas

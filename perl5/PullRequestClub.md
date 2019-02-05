@@ -4,7 +4,7 @@ Pull Request Club
 Description
 -----------
 
-Pull Request Club is a web application where users can sign up with their GitHub accounts. Its purpose is to connect
+[Pull Request Club](https://pullrequest.club/) is a web application where users can sign up with their GitHub accounts. Its purpose is to connect
  - people who are looking for an open source project to work on, with
  - people who want new contributors for their open source projects.
 
