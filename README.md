@@ -4,10 +4,27 @@
 
 ![TPF](img/tpf_logo_transparent.png)
 
-This repository lists GSoC project ideas for Perl and related projects.
+The Perl Foundation participates in [Google Summer of Code](https://summerofcode.withgoogle.com/) 2019.
+This page lists project ideas for Perl and its related projects.
 
-If you are a student and have a project idea not listed below, feel free to contact the organization administrators and
-just ask!
+Google offers some very good documentation for Summer of Code. If you haven't already you should really
+[head over](https://summerofcode.withgoogle.com/). Make sure you don't miss
+
+- [How it works](https://summerofcode.withgoogle.com/how-it-works/)
+- the [FAQ](https://developers.google.com/open-source/gsoc/faq)
+- and the [Student Guide](https://google.github.io/gsocguides/student/)
+
+We encourage you to get in contact with our mentors and the Perl community in general as early as possible.
+Talking with the mentors about the projects you are interested in is the fastest way to get a good
+understanding of the project idea. And that is the most important step for a good application and
+successful project.
+
+Each project idea lists the mentors with their contact information.
+In general the Perl 6 community is most active on IRC. Just drop by on [#perl6](https://webchat.freenode.net/?channels=perl6&nick=) and say hello!
+The Perl 5 community is best reached via the [mailing lists](https://lists.perl.org/list/perl6-users.html) but also active on [IRC](https://webchat.freenode.net/?channels=perl&nick=).
+
+If you have a project idea not listed below but fitting under the Perl umbrella, feel free to contact us
+and we'll see what we can do.
 
 * JJ Merelo (jjmerelo@gmail.com / [GitHub](https://github.com/JJ))
 * Makoto Nozaki (makoto@perlfoundation.org)
