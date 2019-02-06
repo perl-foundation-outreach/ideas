@@ -23,8 +23,6 @@ Project ideas
 
 * [Perl 5 Dancer2: Configuration Improvements](perl5/d2-config.md)
 
-* [Perl 5 Dancer2: Documentation Improvements](perl5/dancer2-docs.md)
-
 * [Perl 6 Rakudo JS: Tree shaking for the JS backend](perl6/js-tree-shaking.md)
 
 * [Perl 6 Rakudo JVM: Truffle / GraalVM backend](perl6/truffle.md)
