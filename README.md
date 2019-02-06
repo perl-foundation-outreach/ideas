@@ -14,6 +14,8 @@ just ask!
 Project ideas
 -------------
 
+* [Perl 5 RPerl Operators: Implement RPerl Built-In Operators](perl5/RPerl_Operators.md)
+
 * [Perl 5 DBI: Improvements for the DBD::MariaDB driver](perl5/DBD-MariaDB.pod)
 
 * [Perl 5 Dancer2: Configuration Improvements](perl5/d2-config.md)
