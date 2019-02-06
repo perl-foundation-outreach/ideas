@@ -35,8 +35,7 @@ Project ideas
 
 * [Perl 6 MoarVM: Testing JIT compilation and runtime specialization](perl6/spesh-jit-testing.md)
 
-* [Perl 6 documentation tools: specifying, testing and optimizing
-  document indexing, content parsing and rendering](perl6/docs.md).
+* [Perl 6 documentation tools: specifying, testing and optimizing document indexing, content parsing and rendering](perl6/docs.md)
 
 Adding ideas
 ------------

@@ -26,7 +26,7 @@ redesign and overhaul of the whole documentation system that includes
   content and also fulfillment of specs.
 
 The perl documentation tools are right now in a state of flux. There's
-[new specification](https://github.com/perl6/doc/wiki/Document-file-specification) right
+[a new specification](https://github.com/perl6/doc/wiki/Document-file-specification) right
 now, but it needs to be fleshed out and implemented. There are also
 several issues that need to be addressed, involving the spinning off
 of different modules that are now included in the documentation repo.
@@ -65,4 +65,7 @@ Medium.
 Possible mentors
 ----------------
 
-[JJ Merelo](https://github.com/JJ), [Richard Hainsworth](https://github.com/rhainsworth), [Tom Browder](https://github.com/tbrowder).
+- JJ Merelo (jjmerelo@gmail.com, [GitHub](https://github.com/JJ))
+- Richard Hainsworth (rnhainsworth@gmail.com, [GitHub](https://github.com/finanalyst))
+- Tom Browder (tom.browder@gmail.com, [GitHub](https://github.com/tbrowder))
+
