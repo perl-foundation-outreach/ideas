@@ -13,8 +13,10 @@ Pull Request Club gives out monthly assignments. Web application is built on Cat
 Expected outcomes
 -----------------
 
-Improve existing features and build new functionality for a transition towards "fully self served" site. This will enable more people to join Pull Request Club, which means more contributions to open source.
+Improve existing features and build new functionality to make site more appealing for newcomers. Make the application more friendly towards people of all programming languages by measureable outcomes listed below.
 
+* **Public stats:** Improve landing page to include some statistics such as "how many active assignments are there" and "how many assignments were completed". Build another page that displays monthly stats for curious users/researchers.
+* **Language-selection support:** Let users select programming languages they want to work on. By doing so, we can ensure people get assignments only in selected programming languages.
 
 Required skills
 ---------------
