@@ -38,9 +38,9 @@ Medium.
 
 =over
 
-=item * Pali (L<CPAN|https://metacpan.org/author/PALI>/L<GitHub|https://github.com/pali>)
+=item * Pali (pali@cpan.org / L<CPAN|https://metacpan.org/author/PALI> / L<GitHub|https://github.com/pali>)
 
-=item * Choroba (L<CPAN|https://metacpan.org/author/CHOROBA>/L<GitHub|https://github.com/choroba>)
+=item * Choroba (choroba@cpan.org / L<CPAN|https://metacpan.org/author/CHOROBA> / L<GitHub|https://github.com/choroba>)
 
 =back
 
