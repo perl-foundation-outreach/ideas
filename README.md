@@ -19,7 +19,7 @@ Project ideas
 
 * [Perl 5 RPerl Operators: Implement RPerl Built-In Operators](perl5/RPerl_Operators.md)
 
-* [Perl 5 DBI: Improvements for the DBD::MariaDB driver](perl5/DBD-MariaDB.pod)
+* [Perl 5 DBI: Improvements for the DBD::MariaDB driver](perl5/DBD-MariaDB.md)
 
 * [Perl 5 Dancer2: Configuration Improvements](perl5/d2-config.md)
 
@@ -36,6 +36,7 @@ Project ideas
 * [Perl 6 MoarVM: Testing JIT compilation and runtime specialization](perl6/spesh-jit-testing.md)
 
 * [Perl 6 documentation tools: specifying, testing and optimizing document indexing, content parsing and rendering](perl6/docs.md)
+
 
 Adding ideas
 ------------
