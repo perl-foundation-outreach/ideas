@@ -1,4 +1,5 @@
-![GSoC Logo](https://summerofcode.withgoogle.com/static/img/summer-of-code-logo.svg) 
+![GSoC Logo](https://summerofcode.withgoogle.com/static/img/summer-of-code-logo.svg)
+
 Google Summer of Code ideas page for Perl projects 
 ==================================================
 
