@@ -1,5 +1,5 @@
-Perl 5: Improvements for DBI driver DBD::MariaDB
-================================================
+DBD::MariaDB Prepared Statements, Async, Test Suite
+===================================================
 
 Description
 -----------

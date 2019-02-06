@@ -1,5 +1,5 @@
-Pull Request Club
-==================================
+Pull Request Club: Public Stats and Language Selection
+======================================================
 
 Description
 -----------

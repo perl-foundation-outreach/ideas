@@ -14,5 +14,3 @@ This is the list of incomplete project ideas that are either in need of a mentor
 * [Improve CI toolchain](perl6/build-toolchain-improvements.md),
   proposed by [Daniel Green](https://github.com/masterduke17)
 
-* [Perl 5 Pull Request Club: Improvements](perl5/PullRequestClub.md)
-

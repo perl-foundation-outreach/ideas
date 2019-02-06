@@ -17,15 +17,15 @@ just ask!
 Project ideas
 -------------
 
-* [Perl 5 RPerl Operators: Implement RPerl Built-In Operators](perl5/RPerl_Operators.md)
+* [Perl 5 Dancer2: Configuration Rewrite](perl5/d2-config.md)
 
-* [Perl 5 DBI: Improvements for the DBD::MariaDB driver](perl5/DBD-MariaDB.md)
+* [Perl 5 DBI: DBD::MariaDB Prepared Statements, Async, Test Suite](perl5/DBD-MariaDB.md)
 
-* [Perl 5 Dancer2: Configuration Improvements](perl5/d2-config.md)
+* [Perl 5 Pull Request Club: Public Stats and Language Selection](perl5/PullRequestClub.md)
 
-* [Perl 6 Rakudo JS: Tree shaking for the JS backend](perl6/js-tree-shaking.md)
+* [Perl 5 RPerl: Built-In Operators](perl5/RPerl_Operators.md)
 
-* [Perl 6 Rakudo JVM: Truffle / GraalVM backend](perl6/truffle.md)
+* [Perl 6 Infrastructure: Documentation Tooling Revamp](perl6/docs.md)
 
 * [Perl 6 MoarVM: Implement the GB2312 Encoding (Simplified Chinese)](perl6/GB2312-encoding-decoding.md)
 
@@ -35,7 +35,9 @@ Project ideas
 
 * [Perl 6 MoarVM: Testing JIT compilation and runtime specialization](perl6/spesh-jit-testing.md)
 
-* [Perl 6 documentation tools: specifying, testing and optimizing document indexing, content parsing and rendering](perl6/docs.md)
+* [Perl 6 Rakudo JVM: Truffle / GraalVM backend](perl6/truffle.md)
+
+* [Perl 6 Rakudo JS: Tree shaking](perl6/js-tree-shaking.md)
 
 
 Adding ideas

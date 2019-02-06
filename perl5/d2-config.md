@@ -1,5 +1,5 @@
-Perl 5: Dancer2 Configuration Improvements
-==========================================
+Perl 5: Dancer2 Configuration Rewrite
+=====================================
 
 Description
 -----------
@@ -36,6 +36,5 @@ Hard
 Possible mentors
 ----------------
 
-* Jason Crome (cromedome): [CPAN](https://metacpan.org/author/CROMEDOME)/[GitHub](https://github.com/cromedome)/cromedome@cpan.org
-
+* Jason Crome (cromedome): cromedome@cpan.org / [CPAN](https://metacpan.org/author/CROMEDOME) / [GitHub](https://github.com/cromedome)
 
