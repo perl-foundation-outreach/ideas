@@ -1,7 +1,6 @@
 ![GSoC Logo](https://summerofcode.withgoogle.com/static/img/summer-of-code-logo.svg)
 
-Google Summer of Code ideas page for Perl projects 
-==================================================
+#Google Summer of Code ideas page for Perl projects
 
 ![TPF](img/tpf_logo_transparent.png)
 
