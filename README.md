@@ -2,8 +2,7 @@
 
 # Google Summer of Code ideas for Perl projects
 
-![TPF](img/tpf_logo_transparent.png){:align="right" width="300px"}
-
+![TPF](img/tpf_logo_transparent.png)
 
 The Perl Foundation participates in [Google Summer of Code](https://summerofcode.withgoogle.com/) 2019.
 This page lists project ideas for Perl and its related projects.
