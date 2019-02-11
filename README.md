@@ -22,7 +22,7 @@ successful project.
 
 Each project idea lists the mentors with their contact information.
 In general the Perl 6 community is most active on IRC. Just drop by on [#perl6](https://webchat.freenode.net/?channels=perl6&nick=) and say hello!
-The Perl 5 community is best reached via the [mailing lists](https://lists.perl.org/list/perl6-users.html) but also active on [IRC](https://webchat.freenode.net/?channels=perl&nick=).
+The Perl 5 community is best reached via the [mailing list](https://groups.google.com/forum/#!forum/tpf-gsoc-students) but also active on [IRC](https://www.irc.perl.org/) (join `#soc-help` on irc.perl.org).
 
 If you have a project idea not listed below but fitting under the Perl umbrella, feel free to contact us
 and we'll see what we can do.
