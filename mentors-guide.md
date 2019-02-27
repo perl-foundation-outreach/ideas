@@ -24,3 +24,10 @@ Project ideas need to meet certain criteria described
 template you should be good to go. If you have an idea and want to discuss it before adding anything,
 [discuss it here or add a new issue](https://github.com/perl-gsoc-2019/ideas/issues/8).
 
+
+Becoming a mentor
+-----------------
+
+You can also volunteer to become a mentor without having a specific idea. But please make sure you understand what it means to be
+a mentor. To list yourself as available for mentoring, just add your name to [mentors-list.md](mentors-list.md).
+
