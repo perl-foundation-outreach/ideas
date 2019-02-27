@@ -9,7 +9,7 @@ The Perl Foundation participates in [Google Summer of Code](https://summerofcode
 This page lists project ideas for Perl and its related projects.
 
 Google offers some very good documentation for Summer of Code. If you haven't already you should really
-[head over](https://summerofcode.withgoogle.com/). Make sure you don't miss
+[head over to it](https://summerofcode.withgoogle.com/). Make sure you don't miss
 
 - [How it works](https://summerofcode.withgoogle.com/how-it-works/)
 - the [FAQ](https://developers.google.com/open-source/gsoc/faq)
