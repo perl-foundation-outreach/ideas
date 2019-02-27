@@ -65,7 +65,8 @@ Medium.
 Possible mentors
 ----------------
 
-- JJ Merelo (jjmerelo@gmail.com, [GitHub](https://github.com/JJ))
+- JJ Merelo (jjmerelo@gmail.com, [GitHub](https://github.com/JJ)),
+  jmerelo on Freenode.
 - Richard Hainsworth (rnhainsworth@gmail.com, [GitHub](https://github.com/finanalyst))
 - Tom Browder (tom.browder@gmail.com, [GitHub](https://github.com/tbrowder))
 

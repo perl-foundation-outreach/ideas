@@ -23,8 +23,8 @@ This project would have two main goals:
   `perl` is. Thus running `perf perl6`, `gdb perl6`, `valgrind perl6`
   should 'just work'.
 - `perl6 --compile foo.pl6` would generate an executable that would
-  be, to some reasonable degree, self-contained (for instance, could
-  be copied to a `docker` container).
+  be, to some reasonable degree, self-contained so that it could be
+  used for binary distributions.
 
 Details
 -------
@@ -73,7 +73,7 @@ working knowledge of dynamic linking and loading.
 Rating
 ------
 
-medium/hard, depending on strategy
+Medium/hard, depending on strategy
 
 Possible mentors
 ----------------
