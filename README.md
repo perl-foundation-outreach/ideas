@@ -57,3 +57,5 @@ Project ideas
 
 * [Perl 6 Rakudo JS: Tree shaking](perl6/js-tree-shaking.md)
 
+* [Perl 6 ecosystem: community modules](perl6/community-modules.md)
+
