@@ -42,8 +42,7 @@ Modules to be considered:
   should be addressed, and this module released to a (stable) version
   1.0.
   
-*
-  [Test::When](https://github.com/perl6-community-modules/perl6-Test-When) this
+* [Test::When](https://github.com/perl6-community-modules/perl6-Test-When) this
   module was recently adopted, and it's got 0 issues. However, it
   mentions restrictions that are not implemented and needs some
   adaptation of the documentation. It's at version 1.001, should be
