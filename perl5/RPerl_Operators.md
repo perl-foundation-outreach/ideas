@@ -42,3 +42,6 @@ Possible mentors
 
 Will 'the Chill' Braswell
 william.braswell@autoparallel.com
+
+Mathias Köhler
+ma_ko@riseup.net
