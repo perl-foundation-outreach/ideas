@@ -1,9 +1,10 @@
 ![GSoC Logo](https://summerofcode.withgoogle.com/static/img/summer-of-code-logo.svg)
 
-# Google Summer of Code ideas for Perl projects
+# Google Summer of Code ideas for Perl projects, 2019 edition
 
 <img src="img/tpf_logo_transparent.png" width="300px" align="right" alt="TPF">
 
+Check [the call for ideas for the 2020 edition](https://perl-foundation-outreach.github.io/gsoc-2020-ideas). There were [four finished projects](https://summerofcode.withgoogle.com/archive/2019/organizations/6559697677582336/).
 
 The Perl Foundation participates in [Google Summer of Code](https://summerofcode.withgoogle.com/) 2019.
 This page lists project ideas for Perl and its related projects.
